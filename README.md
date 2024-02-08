@@ -8,4 +8,4 @@ Created using HTML, CSS and JS
 
 Responsive on desktop and all mobile devices 
 
-First creation on desktop creation
+First created on desktop technology 
